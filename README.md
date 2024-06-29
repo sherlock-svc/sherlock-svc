@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**sherlock-svc/sherlock-svc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sorry - there isn't much to see here.
 
-Here are some ideas to get you started:
+This is a service account for the Sherlock Project (@sherlock-project).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+GitHub account @sherlock-svc is a service account in use by the Sherlock Project. The primary administrator of this account is @ppfeister (https://github.com/ppfeister).
+
+Contact information can be found on my profile or via my GPG key, if a need arises.
+
+This message is signed with my readily available GPG key to prove authenticity and legitimacy.
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQT0oDZ//LINYqvVzSZw0zqWy9eplAUCZn9+FQAKCRBw0zqWy9ep
+lGcmAQCOH8gxC7no/HBKPEqNhCwtGIf99tmcbTSGzzLff9tebAEAvkd/vEFJxoVv
+9PM03FXwIVTDPEC5EJ7XalC/kcez4w8=
+=XukE
+-----END PGP SIGNATURE-----
+```
